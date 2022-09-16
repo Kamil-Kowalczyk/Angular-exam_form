@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'exam_angular_form';
+
+  kursy: String[] = ["Programowanie w C#", "Angular dla początkujących", "Kurs Django"]
 }
